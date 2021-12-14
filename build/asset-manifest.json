@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecefdb6.chunk.css",
+    "main.css": "/static/css/main.43dd86e1.chunk.css",
     "main.js": "/static/js/main.4436f387.chunk.js",
     "main.js.map": "/static/js/main.4436f387.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
@@ -8,9 +8,9 @@
     "static/js/2.e2ccd622.chunk.js": "/static/js/2.e2ccd622.chunk.js",
     "static/js/2.e2ccd622.chunk.js.map": "/static/js/2.e2ccd622.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.78f4a42eff5b19971d8abe5f1d1a1e3c.js": "/precache-manifest.78f4a42eff5b19971d8abe5f1d1a1e3c.js",
+    "precache-manifest.5afcbf691b2b2f26ad821e585b6caad5.js": "/precache-manifest.5afcbf691b2b2f26ad821e585b6caad5.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecefdb6.chunk.css.map": "/static/css/main.5ecefdb6.chunk.css.map",
+    "static/css/main.43dd86e1.chunk.css.map": "/static/css/main.43dd86e1.chunk.css.map",
     "static/js/2.e2ccd622.chunk.js.LICENSE.txt": "/static/js/2.e2ccd622.chunk.js.LICENSE.txt",
     "static/media/fsfont.css": "/static/media/FS Magistral-MediumItalic.86606469.ttf",
     "static/media/style.css": "/static/media/GoogleSans-Regular.9b60b12d.ttf",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.c8a21426.js",
     "static/js/2.e2ccd622.chunk.js",
-    "static/css/main.5ecefdb6.chunk.css",
+    "static/css/main.43dd86e1.chunk.css",
     "static/js/main.4436f387.chunk.js"
   ]
 }
