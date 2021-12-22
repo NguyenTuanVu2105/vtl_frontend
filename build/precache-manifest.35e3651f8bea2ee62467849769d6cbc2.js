@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdf4dcfc655ddd6782dd384d5f41e29f",
+    "revision": "3d8d32bacece40792632a9301f0e90d8",
     "url": "/index.html"
   },
   {
-    "revision": "e81a5445179796136e7f",
-    "url": "/static/css/main.c3b3e63c.chunk.css"
+    "revision": "f814754bf32b3135285f",
+    "url": "/static/css/2.7f2699be.chunk.css"
   },
   {
-    "revision": "bcebba3c03e5ede84b57",
-    "url": "/static/js/2.219e8a0d.chunk.js"
+    "revision": "c9e4946e10a6764624b1",
+    "url": "/static/css/main.17d03ef2.chunk.css"
   },
   {
-    "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/static/js/2.219e8a0d.chunk.js.LICENSE.txt"
+    "revision": "f814754bf32b3135285f",
+    "url": "/static/js/2.f2a77014.chunk.js"
   },
   {
-    "revision": "e81a5445179796136e7f",
-    "url": "/static/js/main.2d8efd34.chunk.js"
+    "revision": "6ef57ea73f859e79d7f696b27898a6e5",
+    "url": "/static/js/2.f2a77014.chunk.js.LICENSE.txt"
+  },
+  {
+    "revision": "c9e4946e10a6764624b1",
+    "url": "/static/js/main.b872f349.chunk.js"
   },
   {
     "revision": "2747b914e9a60db2276f",
@@ -72,7 +76,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Sarabun-Medium.d497a8b3.ttf"
   },
   {
-    "revision": "e9f6cd55cf2dfa7229c0fdf2b422e114",
-    "url": "/static/media/messenger.e9f6cd55.svg"
+    "revision": "fe333b3a0efe1374b5d3ec1552507abc",
+    "url": "/static/media/boxchat.fe333b3a.png"
+  },
+  {
+    "revision": "a2c0308b03496d9a441cd804a2a85fe7",
+    "url": "/static/media/m1.a2c0308b.png"
   }
 ]);
